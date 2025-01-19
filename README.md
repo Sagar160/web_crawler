@@ -31,6 +31,6 @@ This process creates a map of interconnected web pages, allowing the extraction 
 ## Technologies and Tools
 - Python
 - Pandas, NumPy
-- Matplotlib, Seaborn
-- SciPy
-- Scikit-learn
+- Beautiful Soup
+- Request
+- HTML
