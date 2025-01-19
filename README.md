@@ -27,3 +27,10 @@ This process creates a map of interconnected web pages, allowing the extraction 
 - **Content Aggregation**: Gathering articles, news, or other specific types of content.  
 - **SEO Analysis**: Analyzing website structures, links, and keywords.  
 - **Data Mining**: Collecting datasets for various purposes.
+
+## Technologies and Tools
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- SciPy
+- Scikit-learn
